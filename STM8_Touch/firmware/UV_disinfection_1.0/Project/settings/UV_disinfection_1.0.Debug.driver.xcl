@@ -1,0 +1,19 @@
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\config\ddf\iostm8s005k6.ddf" 
+
+"--mcuname" 
+
+"STM8S005K6" 
+
+"--verify_download" 
+
+"--option_bytes_file" 
+
+"D:\Designs\Industrial_Meter_projects\ME-2021_HomeDehydrator\HDehydrator_01\firmware\Firm_v01\option_bytes.obc" 
+
+"--erase_memory" 
+
+
+
+

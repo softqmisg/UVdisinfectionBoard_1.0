@@ -1,0 +1,24 @@
+stm8s_tim4.pbi: \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Libraries\STM8S_StdPeriph_Driver\src\stm8s_tim4.c \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_tim4.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_conf.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_adc1.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_awu.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_beep.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_clk.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_exti.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_flash.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_gpio.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_i2c.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_itc.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_iwdg.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_rst.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_spi.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_tim1.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_tim2.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_tim3.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_tim4.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_uart2.h \
+  D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

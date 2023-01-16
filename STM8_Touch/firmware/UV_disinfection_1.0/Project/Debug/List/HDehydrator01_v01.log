@@ -1,0 +1,904 @@
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\BS814A.o.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b10
+              reference :  ?b11
+              reference :  ?b12
+              reference :  ?b13
+              reference :  ?b14
+              reference :  ?b15
+              reference :  ?b2
+              reference :  ?b3
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b6
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?epilogue_l2_l3
+              reference :  ?epilogue_l2_w6
+              reference :  ?epilogue_w4
+              reference :  ?fadd32_l0_l0_0x
+              reference :  ?fadd32_l0_l0_dc32
+              reference :  ?fadd32_l0_l0_l1
+              reference :  ?fcastf32s16_l0_x
+              reference :  ?fcastf32u16_l0_x
+              reference :  ?fcasts16f32_x_l0
+              reference :  ?fcmpge32_c_l0_dc32
+              reference :  ?fcmpge32_c_l0_l1
+              reference :  ?fcmplt32_c_l0_dc32
+              reference :  ?fcmplt32_c_l0_l1
+              reference :  ?fdiv32_l0_l0_dc32
+              reference :  ?fdiv32_l0_l0_l1
+              reference :  ?fmul32_l0_l0_0x
+              reference :  ?fmul32_l0_l0_dc32
+              reference :  ?fmul32_l0_l0_l1
+              reference :  ?fsub32_l0_l0_l1
+              reference :  ?load32_0x_l0
+              reference :  ?load32_0x_l1
+              reference :  ?load32_0x_l2
+              reference :  ?load32_0x_l3
+              reference :  ?load32_dbsp_l0
+              reference :  ?load32_l0_0x
+              reference :  ?load32_l0_dbsp
+              reference :  ?load32_l1_0x
+              reference :  ?load32_l1_dbsp
+              reference :  ?load32_l2_0x
+              reference :  ?load32_l3_0x
+              reference :  ?load32_l3_dbsp
+              reference :  ?longfarg16_v_w0_a
+              reference :  ?mov_l0_l2
+              reference :  ?mov_l0_l3
+              reference :  ?mov_l1_l2
+              reference :  ?mov_l1_l3
+              reference :  ?mov_l2_l0
+              reference :  ?mov_l2_l1
+              reference :  ?mov_l3_l0
+              reference :  ?mov_l3_l1
+              reference :  ?mov_l3_l2
+              reference :  ?move1616_v_x_y_a
+              reference :  ?mul16_x_x_w0
+              reference :  ?mul32_l0_l0_dl
+              reference :  ?pop_l0
+              reference :  ?pop_l1
+              reference :  ?pop_w0
+              reference :  ?push_l0
+              reference :  ?push_l2
+              reference :  ?push_l3
+              reference :  ?push_w0
+              reference :  ?push_w4
+              reference :  ?push_w6
+              reference :  ?sext16_x_a
+              reference :  ?sll16_x_x_a
+              reference :  ?sll32_l0_l0_db
+              reference :  ?sll8_a_a_6
+              reference :  ?sll8_a_a_b0
+              reference :  ?srl16_x_x_4
+              reference :  ?sub32_l0_l0_l1
+              reference :  ?switch8vlt_0x_a_0x
+              reference :  ?udiv32_l0_dl_l1
+              reference :  ?udiv32_l0_l0_dl
+              reference :  ?udiv32_l0_l0_l1
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  ?w7
+              reference :  sprintf
+              definition:  BEEP_Cmd
+              definition:  BEEP_Init
+              definition:  BEEP_LSICalibrationConfig
+              definition:  Buz_long
+              definition:  Buz_short
+              definition:  CLK_ClockSwitchConfig
+              definition:  CLK_DeInit
+              definition:  CLK_GetClockFreq
+              definition:  CLK_GetFlagStatus
+              definition:  CLK_PeripheralClockConfig
+              definition:  CLK_SYSCLKConfig
+              definition:  DS18B20_get_temperature
+              definition:  DS18B20_init
+              definition:  DispState
+              definition:  EXTI4_IRQHandler
+              definition:  EXTI_SetExtIntSensitivity
+              definition:  EXTI_setup
+              definition:  GOMAINMENU_counter
+              definition:  GPIO_DeInit
+              definition:  GPIO_Init
+              definition:  GPIO_ReadInputPin
+              definition:  GPIO_setup
+              definition:  HOUR_Value
+              definition:  HSIDivFactor
+              definition:  ITC_DeInit
+              definition:  ITC_SetSoftwarePriority
+              definition:  MINUTE_Value
+              definition:  PIDCompute
+              definition:  PIDInit
+              definition:  PIDOutputLimitsSet
+              definition:  PIDTuningsSet
+              definition:  SHOW_SEG
+              definition:  TEMPERATURE_Value
+              definition:  TIM1_DeInit
+              definition:  TIM1_OC1Init
+              definition:  TIM1_OC2Init
+              definition:  TIM1_OC3Init
+              definition:  TIM1_OC4Init
+              definition:  TIM1_SetCompare1
+              definition:  TIM1_SetCompare2
+              definition:  TIM1_SetCompare3
+              definition:  TIM1_SetCompare4
+              definition:  TIM1_TimeBaseInit
+              definition:  TIM1_UPD_OVF_BRK_IRQHandler
+              definition:  TIM1_setup
+              definition:  TIM2_DeInit
+              definition:  TIM2_UPD_IRQHandler
+              definition:  TIM3_DeInit
+              definition:  TIM3_OC1Init
+              definition:  TIM3_OC2Init
+              definition:  TIM3_SetCompare1
+              definition:  TIM3_SetCompare2
+              definition:  TIM3_UPD_IRQHandler
+              definition:  TIM3_setup
+              definition:  TIM4_Cmd
+              definition:  TIM4_TimeBaseInit
+              definition:  TIM4_UPD_IRQHandler
+              definition:  TIM4_setup
+              definition:  UART2_DeInit
+              definition:  UART2_Init
+              definition:  Write_7seg
+              definition:  _interrupt_13
+              definition:  _interrupt_15
+              definition:  _interrupt_17
+              definition:  _interrupt_25
+              definition:  _interrupt_9
+              definition:  blink_counter
+              definition:  bs814a_init
+              definition:  channel_fade
+              definition:  clk_setup
+              definition:  counter_change_disp
+              definition:  counter_fade
+              definition:  cur_temp
+              definition:  data
+              definition:  decreaseTime
+              definition:  delay_ms
+              definition:  delay_us
+              definition:  delsyus_onewire
+              definition:  eeprom_read
+              definition:  eeprom_write
+              definition:  fade_apply
+              definition:  fade_led
+              definition:  fade_state
+              definition:  flag_1s
+              definition:  flag_20ms
+              definition:  flag_change_disp
+              definition:  flag_tim4_ovf
+              definition:  flag_touch
+              definition:  key_longpressed
+              definition:  key_pressed
+              definition:  key_released
+              definition:  key_scan
+              definition:  key_shortpressed
+              definition:  key_timercounter
+              definition:  key_timerstart
+              definition:  lsb
+              definition:  main
+              definition:  menu_state
+              definition:  msb
+              definition:  onewire_read
+              definition:  onewire_reset
+              definition:  onewire_write
+              definition:  print_7SEG
+              definition:  read_touch2
+              definition:  screen_blink
+              definition:  screen_blink_state
+              definition:  seg
+              definition:  string_7seg
+              definition:  string_index
+              definition:  update_value
+              definition:  __iar_cc..z_dlnvr0sL1
+              definition:  __iar_cc..nJTCMbmZX62
+              definition:  __iar_cc..pQQtzuAmZW3
+              definition:  __iar_cc..AEzk8DXeTZD
+              definition:  __iar_cc..o$GQdGojNb0
+              definition:  __iar_cc..o7AxP00XQ5A
+              definition:  __iar_cc..sr$e31xYN6C
+              definition:  __iar_cc..gBFRrG7AK05
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\ds18b20.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\eeprom.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\main.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\onewire.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\pid_controller.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\retarget.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\sevenseg.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_adc1.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_awu.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_beep.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_clk.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_exti.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_flash.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_gpio.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_itc.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_iwdg.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_rst.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_tim1.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_tim2.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_tim3.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_tim4.o.
+Loading object D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\stm8s_uart2.o.
+Selecting member cstartup.o(dlstm8smn.a) to define __iar_program_start.
+              reference :  SHT$$INIT_ARRAY$$Limit
+              reference :  SHT$$PREINIT_ARRAY$$Base
+              reference :  __call_ctors
+              reference :  __iar_data_init2
+              reference :  __intvec
+              reference :  __low_level_init
+              reference :  exit
+              reference :  main
+              definition:  ??call_ctors
+              definition:  __iar_cstart_call_ctors
+              definition:  __iar_program_start
+              reference :  CSTACK$$Limit
+Selecting member vregs.o(dlstm8smn.a) to define ?b0.
+              definition:  ?b0
+              definition:  ?b1
+              definition:  ?b10
+              definition:  ?b11
+              definition:  ?b12
+              definition:  ?b13
+              definition:  ?b14
+              definition:  ?b15
+              definition:  ?b2
+              definition:  ?b3
+              definition:  ?b4
+              definition:  ?b5
+              definition:  ?b6
+              definition:  ?b7
+              definition:  ?b8
+              definition:  ?b9
+              definition:  ?e0
+              definition:  ?e1
+              definition:  ?e2
+              definition:  ?e3
+              definition:  ?l0
+              definition:  ?l1
+              definition:  ?l2
+              definition:  ?l3
+              definition:  ?w0
+              definition:  ?w1
+              definition:  ?w2
+              definition:  ?w3
+              definition:  ?w4
+              definition:  ?w5
+              definition:  ?w6
+              definition:  ?w7
+Selecting member vreg_util.o(dlstm8smn.a) to define ?epilogue_l2_l3.
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?e2
+              reference :  ?e3
+              reference :  ?l0
+              reference :  ?l1
+              reference :  ?l2
+              reference :  ?l3
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  ?w6
+              reference :  ?w7
+              definition:  ?epilogue_l2
+              definition:  ?epilogue_l2_l3
+              definition:  ?epilogue_l2_w6
+              definition:  ?epilogue_w4
+              definition:  ?mov_e0_e1
+              definition:  ?mov_e0_e2
+              definition:  ?mov_e0_e3
+              definition:  ?mov_e1_e0
+              definition:  ?mov_e1_e2
+              definition:  ?mov_e1_e3
+              definition:  ?mov_e2_e0
+              definition:  ?mov_e2_e1
+              definition:  ?mov_e2_e3
+              definition:  ?mov_e3_e0
+              definition:  ?mov_e3_e1
+              definition:  ?mov_e3_e2
+              definition:  ?mov_l0_l1
+              definition:  ?mov_l0_l2
+              definition:  ?mov_l0_l3
+              definition:  ?mov_l1_l0
+              definition:  ?mov_l1_l2
+              definition:  ?mov_l1_l3
+              definition:  ?mov_l2_l0
+              definition:  ?mov_l2_l1
+              definition:  ?mov_l2_l3
+              definition:  ?mov_l3_l0
+              definition:  ?mov_l3_l1
+              definition:  ?mov_l3_l2
+              definition:  ?mov_w0_w1
+              definition:  ?mov_w0_w2
+              definition:  ?mov_w0_w3
+              definition:  ?mov_w0_w4
+              definition:  ?mov_w0_w5
+              definition:  ?mov_w0_w6
+              definition:  ?mov_w0_w7
+              definition:  ?mov_w1_w0
+              definition:  ?mov_w1_w2
+              definition:  ?mov_w1_w3
+              definition:  ?mov_w1_w4
+              definition:  ?mov_w1_w5
+              definition:  ?mov_w1_w6
+              definition:  ?mov_w1_w7
+              definition:  ?mov_w2_w0
+              definition:  ?mov_w2_w1
+              definition:  ?mov_w2_w3
+              definition:  ?mov_w2_w4
+              definition:  ?mov_w2_w5
+              definition:  ?mov_w2_w6
+              definition:  ?mov_w2_w7
+              definition:  ?mov_w3_w0
+              definition:  ?mov_w3_w1
+              definition:  ?mov_w3_w2
+              definition:  ?mov_w3_w4
+              definition:  ?mov_w3_w5
+              definition:  ?mov_w3_w6
+              definition:  ?mov_w3_w7
+              definition:  ?mov_w4_w0
+              definition:  ?mov_w4_w1
+              definition:  ?mov_w4_w2
+              definition:  ?mov_w4_w3
+              definition:  ?mov_w4_w5
+              definition:  ?mov_w4_w6
+              definition:  ?mov_w4_w7
+              definition:  ?mov_w5_w0
+              definition:  ?mov_w5_w1
+              definition:  ?mov_w5_w2
+              definition:  ?mov_w5_w3
+              definition:  ?mov_w5_w4
+              definition:  ?mov_w5_w6
+              definition:  ?mov_w5_w7
+              definition:  ?mov_w6_w0
+              definition:  ?mov_w6_w1
+              definition:  ?mov_w6_w2
+              definition:  ?mov_w6_w3
+              definition:  ?mov_w6_w4
+              definition:  ?mov_w6_w5
+              definition:  ?mov_w6_w7
+              definition:  ?mov_w7_w0
+              definition:  ?mov_w7_w1
+              definition:  ?mov_w7_w2
+              definition:  ?mov_w7_w3
+              definition:  ?mov_w7_w4
+              definition:  ?mov_w7_w5
+              definition:  ?mov_w7_w6
+              definition:  ?pop_e0
+              definition:  ?pop_e1
+              definition:  ?pop_e2
+              definition:  ?pop_e3
+              definition:  ?pop_l0
+              definition:  ?pop_l1
+              definition:  ?pop_l2
+              definition:  ?pop_l3
+              definition:  ?pop_w0
+              definition:  ?pop_w1
+              definition:  ?pop_w2
+              definition:  ?pop_w3
+              definition:  ?pop_w4
+              definition:  ?pop_w5
+              definition:  ?pop_w6
+              definition:  ?pop_w7
+              definition:  ?push_e0
+              definition:  ?push_e1
+              definition:  ?push_e2
+              definition:  ?push_e3
+              definition:  ?push_l0
+              definition:  ?push_l1
+              definition:  ?push_l2
+              definition:  ?push_l3
+              definition:  ?push_w0
+              definition:  ?push_w1
+              definition:  ?push_w2
+              definition:  ?push_w3
+              definition:  ?push_w4
+              definition:  ?push_w5
+              definition:  ?push_w6
+              definition:  ?push_w7
+Selecting member float.o(dlstm8smn.a) to define ?fadd32_l0_l0_0x.
+              reference :  ?dc32_l0
+              reference :  ?dc32_l1
+              reference :  ?dc32_px
+              reference :  ?l0
+              reference :  ?l1
+              reference :  ?mov_l0_l1
+              reference :  ?neg32_l0_l0
+              definition:  ?fadd32_l0_l0_0x
+              definition:  ?fadd32_l0_l0_dc32
+              definition:  ?fadd32_l0_l0_l1
+              definition:  ?fcastf32s16_l0_x
+              definition:  ?fcastf32s32_l0_l0
+              definition:  ?fcastf32u16_l0_x
+              definition:  ?fcastf32u32_l0_l0
+              definition:  ?fcasts16f32_x_l0
+              definition:  ?fcasts32f32_l0_l0
+              definition:  ?fcastu16f32_x_l0
+              definition:  ?fcastu32f32_l0_l0
+              definition:  ?fcmpeq32_c_0x_fzero
+              definition:  ?fcmpeq32_c_l0_0x
+              definition:  ?fcmpeq32_c_l0_dc32
+              definition:  ?fcmpeq32_c_l0_fzero
+              definition:  ?fcmpeq32_c_l0_l1
+              definition:  ?fcmpge32_c_l0_0x
+              definition:  ?fcmpge32_c_l0_dc32
+              definition:  ?fcmpge32_c_l0_l1
+              definition:  ?fcmplt32_c_l0_0x
+              definition:  ?fcmplt32_c_l0_dc32
+              definition:  ?fcmplt32_c_l0_l1
+              definition:  ?fdiv32_l0_dc32_l1
+              definition:  ?fdiv32_l0_l0_0x
+              definition:  ?fdiv32_l0_l0_dc32
+              definition:  ?fdiv32_l0_l0_l1
+              definition:  ?fmul32_l0_l0_0x
+              definition:  ?fmul32_l0_l0_dc32
+              definition:  ?fmul32_l0_l0_l1
+              definition:  ?fsub32_l0_dc32_l1
+              definition:  ?fsub32_l0_l0_0x
+              definition:  ?fsub32_l0_l0_dc32
+              definition:  ?fsub32_l0_l0_l1
+Selecting member long_util.o(dlstm8smn.a) to define ?load32_0x_l0.
+              reference :  ?l0
+              reference :  ?l1
+              reference :  ?l2
+              reference :  ?l3
+              definition:  ?load32_0x_l0
+              definition:  ?load32_0x_l1
+              definition:  ?load32_0x_l2
+              definition:  ?load32_0x_l3
+              definition:  ?load32_asp_l0
+              definition:  ?load32_asp_l1
+              definition:  ?load32_asp_l2
+              definition:  ?load32_asp_l3
+              definition:  ?load32_dbsp_l0
+              definition:  ?load32_dbsp_l1
+              definition:  ?load32_dbsp_l2
+              definition:  ?load32_dbsp_l3
+              definition:  ?load32_l0_0x
+              definition:  ?load32_l0_asp
+              definition:  ?load32_l0_dbsp
+              definition:  ?load32_l0_xsp
+              definition:  ?load32_l1_0x
+              definition:  ?load32_l1_asp
+              definition:  ?load32_l1_dbsp
+              definition:  ?load32_l1_xsp
+              definition:  ?load32_l2_0x
+              definition:  ?load32_l2_asp
+              definition:  ?load32_l2_dbsp
+              definition:  ?load32_l2_xsp
+              definition:  ?load32_l3_0x
+              definition:  ?load32_l3_asp
+              definition:  ?load32_l3_dbsp
+              definition:  ?load32_l3_xsp
+              definition:  ?load32_xsp_l0
+              definition:  ?load32_xsp_l1
+              definition:  ?load32_xsp_l2
+              definition:  ?load32_xsp_l3
+Selecting member move.o(dlstm8smn.a) to define ?longfarg16_v_w0_a.
+              reference :  ?e0
+              reference :  ?e1
+              reference :  ?store8eeprom_0x_a
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              definition:  ?longfarg16_v_w0_a
+              definition:  ?longfarg16_v_w0_x
+              definition:  ?longfarg24_v_e0_x
+              definition:  ?move1616_v_x_y_a
+              definition:  ?move1616_v_x_y_tos16
+              definition:  ?move1624_v_x_e0_y
+              definition:  ?move16eeprom16_v_x_y_w0
+              definition:  ?move16eeprom24_v_x_e0_y
+              definition:  ?move2416_v_e0_x_y
+              definition:  ?move2424_v_e0_e1_x
+Selecting member short.o(dlstm8smn.a) to define ?mul16_x_x_w0.
+              reference :  ?dc16_w0
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  ?w6
+              reference :  ?w7
+              definition:  ?and16_x_x_dw
+              definition:  ?and16_x_x_w0
+              definition:  ?and16_x_x_w1
+              definition:  ?and16_x_x_w2
+              definition:  ?and16_x_x_w3
+              definition:  ?and16_x_x_w4
+              definition:  ?and16_x_x_w5
+              definition:  ?and16_x_x_w6
+              definition:  ?and16_x_x_w7
+              definition:  ?mul16_x_x_w0
+              definition:  ?or16_x_x_dw
+              definition:  ?or16_x_x_w0
+              definition:  ?or16_x_x_w1
+              definition:  ?or16_x_x_w2
+              definition:  ?or16_x_x_w3
+              definition:  ?or16_x_x_w4
+              definition:  ?or16_x_x_w5
+              definition:  ?or16_x_x_w6
+              definition:  ?or16_x_x_w7
+              definition:  ?sdiv16_x_x_y
+              definition:  ?sext16_x_a
+              definition:  ?sll16_x_x_10
+              definition:  ?sll16_x_x_11
+              definition:  ?sll16_x_x_12
+              definition:  ?sll16_x_x_13
+              definition:  ?sll16_x_x_14
+              definition:  ?sll16_x_x_15
+              definition:  ?sll16_x_x_4
+              definition:  ?sll16_x_x_5
+              definition:  ?sll16_x_x_6
+              definition:  ?sll16_x_x_7
+              definition:  ?sll16_x_x_8
+              definition:  ?sll16_x_x_9
+              definition:  ?sll16_x_x_a
+              definition:  ?smod16_y_x_y
+              definition:  ?sra16_x_x_10
+              definition:  ?sra16_x_x_11
+              definition:  ?sra16_x_x_12
+              definition:  ?sra16_x_x_13
+              definition:  ?sra16_x_x_14
+              definition:  ?sra16_x_x_15
+              definition:  ?sra16_x_x_4
+              definition:  ?sra16_x_x_5
+              definition:  ?sra16_x_x_6
+              definition:  ?sra16_x_x_7
+              definition:  ?sra16_x_x_8
+              definition:  ?sra16_x_x_9
+              definition:  ?sra16_x_x_a
+              definition:  ?srl16_x_x_10
+              definition:  ?srl16_x_x_11
+              definition:  ?srl16_x_x_12
+              definition:  ?srl16_x_x_13
+              definition:  ?srl16_x_x_14
+              definition:  ?srl16_x_x_15
+              definition:  ?srl16_x_x_4
+              definition:  ?srl16_x_x_5
+              definition:  ?srl16_x_x_6
+              definition:  ?srl16_x_x_7
+              definition:  ?srl16_x_x_8
+              definition:  ?srl16_x_x_9
+              definition:  ?srl16_x_x_a
+              definition:  ?xor16_x_x_dw
+              definition:  ?xor16_x_x_w0
+              definition:  ?xor16_x_x_w1
+              definition:  ?xor16_x_x_w2
+              definition:  ?xor16_x_x_w3
+              definition:  ?xor16_x_x_w4
+              definition:  ?xor16_x_x_w5
+              definition:  ?xor16_x_x_w6
+              definition:  ?xor16_x_x_w7
+Selecting member long.o(dlstm8smn.a) to define ?mul32_l0_l0_dl.
+              reference :  ?dc32_l0
+              reference :  ?dc32_l1
+              reference :  ?dc32_px
+              reference :  ?dc8_px
+              reference :  ?l0
+              reference :  ?l1
+              reference :  ?l2
+              reference :  ?l3
+              definition:  ?add32_l0_l0_0x
+              definition:  ?add32_l0_l0_dl
+              definition:  ?add32_l0_l0_l1
+              definition:  ?and32_l0_l0_0x
+              definition:  ?and32_l0_l0_l1
+              definition:  ?dec32_0x_0x
+              definition:  ?dec32_l0_l0
+              definition:  ?dec32_l1_l1
+              definition:  ?dec32_l2_l2
+              definition:  ?dec32_l3_l3
+              definition:  ?inc32_0x_0x
+              definition:  ?inc32_l0_l0
+              definition:  ?inc32_l1_l1
+              definition:  ?inc32_l2_l2
+              definition:  ?inc32_l3_l3
+              definition:  ?mul32_l0_l0_0x
+              definition:  ?mul32_l0_l0_dl
+              definition:  ?mul32_l0_l0_l1
+              definition:  ?mul32_l0_l0_x
+              definition:  ?neg32_l0_l0
+              definition:  ?not32_l0_l0
+              definition:  ?or32_l0_l0_0x
+              definition:  ?or32_l0_l0_l1
+              definition:  ?scmp32_c_l0_0x
+              definition:  ?scmp32_c_l0_l1
+              definition:  ?sdiv32_l0_dl_l1
+              definition:  ?sdiv32_l0_l0_dl
+              definition:  ?sdiv32_l0_l0_l1
+              definition:  ?sext32_l0_a
+              definition:  ?sext32_l0_x
+              definition:  ?sll32_0x_0x_a
+              definition:  ?sll32_l0_l0_a
+              definition:  ?sll32_l0_l0_db
+              definition:  ?smod32_l1_dl_l1
+              definition:  ?smod32_l1_l0_dl
+              definition:  ?smod32_l1_l0_l1
+              definition:  ?sra32_0x_0x_a
+              definition:  ?sra32_l0_l0_a
+              definition:  ?sra32_l0_l0_db
+              definition:  ?srl32_0x_0x_a
+              definition:  ?srl32_l0_l0_a
+              definition:  ?srl32_l0_l0_db
+              definition:  ?sub32_l0_dl_l1
+              definition:  ?sub32_l0_l0_0x
+              definition:  ?sub32_l0_l0_dl
+              definition:  ?sub32_l0_l0_l1
+              definition:  ?ucmp32_c_l0_0x
+              definition:  ?ucmp32_c_l0_l1
+              definition:  ?udiv32_l0_dl_l1
+              definition:  ?udiv32_l0_l0_dl
+              definition:  ?udiv32_l0_l0_l1
+              definition:  ?umod32_l1_dl_l1
+              definition:  ?umod32_l1_l0_dl
+              definition:  ?umod32_l1_l0_l1
+              definition:  ?xor32_l0_l0_0x
+              definition:  ?xor32_l0_l0_l1
+Selecting member char.o(dlstm8smn.a) to define ?sll8_a_a_6.
+              reference :  ?b0
+              definition:  ?sdiv8_xl_a_b0
+              definition:  ?sll8_a_a_5
+              definition:  ?sll8_a_a_6
+              definition:  ?sll8_a_a_b0
+              definition:  ?smod8_a_b0_a
+              definition:  ?sra8_a_a_4
+              definition:  ?sra8_a_a_5
+              definition:  ?sra8_a_a_6
+              definition:  ?sra8_a_a_7
+              definition:  ?sra8_a_a_b0
+              definition:  ?srl8_a_a_5
+              definition:  ?srl8_a_a_6
+              definition:  ?srl8_a_a_b0
+Selecting member switch.o(dlstm8smn.a) to define ?switch8vlt_0x_a_0x.
+              reference :  ?w0
+              definition:  ?switch16vlt_0x_x_0y
+              definition:  ?switch8vlt_0x_a_0x
+Selecting member sprintf.o(dlstm8smn.a) to define sprintf.
+              reference :  ?epilogue_w4
+              reference :  ?push_w4
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w4
+              reference :  _PrintfLarge
+              reference :  _SProut
+              definition:  __iar_default_requirements$$_Printf<unknown>sprintf
+              definition:  sprintf
+Selecting member cppinit.o(dlstm8smn.a) to define __call_ctors.
+              reference :  ?epilogue_l2
+              reference :  ?push_l2
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  __cstart_call_dtors
+              definition:  __call_ctors
+              definition:  __call_dtors
+              definition:  __cxa_atexit
+              definition:  __cxa_finalize
+              definition:  __dso_handle
+              reference :  .iar.dynexit$$Limit
+              reference :  .iar.dynexit$$Base
+Selecting member init.o(dlstm8smn.a) to define __iar_data_init2.
+              definition:  __iar_data_init2
+              reference :  Region$$Table$$Base
+              reference :  Region$$Table$$Limit
+Selecting member interrupt.o(dlstm8smn.a) to define __intvec.
+              reference :  __iar_program_start
+              reference :  __iar_unhandled_exception
+              definition:  __intvec
+              weak def  :  _interrupt_1
+              weak def  :  _interrupt_10
+              weak def  :  _interrupt_11
+              weak def  :  _interrupt_12
+              weak def  :  _interrupt_13
+              weak def  :  _interrupt_14
+              weak def  :  _interrupt_15
+              weak def  :  _interrupt_16
+              weak def  :  _interrupt_17
+              weak def  :  _interrupt_18
+              weak def  :  _interrupt_19
+              weak def  :  _interrupt_2
+              weak def  :  _interrupt_20
+              weak def  :  _interrupt_21
+              weak def  :  _interrupt_22
+              weak def  :  _interrupt_23
+              weak def  :  _interrupt_24
+              weak def  :  _interrupt_25
+              weak def  :  _interrupt_26
+              weak def  :  _interrupt_27
+              weak def  :  _interrupt_28
+              weak def  :  _interrupt_29
+              weak def  :  _interrupt_3
+              weak def  :  _interrupt_30
+              weak def  :  _interrupt_31
+              weak def  :  _interrupt_4
+              weak def  :  _interrupt_5
+              weak def  :  _interrupt_6
+              weak def  :  _interrupt_7
+              weak def  :  _interrupt_8
+              weak def  :  _interrupt_9
+Selecting member low_level_init.o(dlstm8smn.a) to define __low_level_init.
+              definition:  __low_level_init
+Selecting member exit.o(dlstm8smn.a) to define exit.
+              reference :  _exit
+              definition:  exit
+Selecting member dc_util.o(dlstm8smn.a) to define ?dc32_l0.
+              reference :  ?load32_l0_0x
+              reference :  ?load32_l1_0x
+              reference :  ?load32_l2_0x
+              reference :  ?load32_l3_0x
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  ?w6
+              reference :  ?w7
+              definition:  ?dc16_px
+              definition:  ?dc16_w0
+              definition:  ?dc16_w1
+              definition:  ?dc16_w2
+              definition:  ?dc16_w3
+              definition:  ?dc16_w4
+              definition:  ?dc16_w5
+              definition:  ?dc16_w6
+              definition:  ?dc16_w7
+              definition:  ?dc32_l0
+              definition:  ?dc32_l1
+              definition:  ?dc32_l2
+              definition:  ?dc32_l3
+              definition:  ?dc32_px
+              definition:  ?dc8_px
+Selecting member xprintflarge.o(dlstm8smn.a) to define _PrintfLarge.
+              reference :  ?and32_l0_l0_l1
+              reference :  ?b0
+              reference :  ?b1
+              reference :  ?b10
+              reference :  ?b2
+              reference :  ?b4
+              reference :  ?b5
+              reference :  ?b7
+              reference :  ?b8
+              reference :  ?b9
+              reference :  ?epilogue_l2
+              reference :  ?fcastf32u32_l0_l0
+              reference :  ?fcastu32f32_l0_l0
+              reference :  ?fcmplt32_c_l0_dc32
+              reference :  ?fdiv32_l0_l0_l1
+              reference :  ?fmul32_l0_l0_dc32
+              reference :  ?fmul32_l0_l0_l1
+              reference :  ?fsub32_l0_l0_l1
+              reference :  ?load32_0x_l0
+              reference :  ?load32_dbsp_l0
+              reference :  ?load32_l0_0x
+              reference :  ?load32_l0_dbsp
+              reference :  ?load32_l2_0x
+              reference :  ?mov_l0_l2
+              reference :  ?mov_l1_l0
+              reference :  ?mov_l1_l2
+              reference :  ?mov_l2_l0
+              reference :  ?mov_w0_w1
+              reference :  ?mov_w0_w5
+              reference :  ?mov_w4_w0
+              reference :  ?mov_w4_w1
+              reference :  ?mov_w5_w0
+              reference :  ?mul16_x_x_w0
+              reference :  ?mul32_l0_l0_dl
+              reference :  ?neg32_l0_l0
+              reference :  ?push_l0
+              reference :  ?push_l2
+              reference :  ?push_w0
+              reference :  ?push_w1
+              reference :  ?sdiv32_l0_l0_dl
+              reference :  ?sext32_l0_a
+              reference :  ?sext32_l0_x
+              reference :  ?switch8vlt_0x_a_0x
+              reference :  ?udiv32_l0_l0_dl
+              reference :  ?udiv32_l0_l0_l1
+              reference :  ?umod32_l1_l0_dl
+              reference :  ?umod32_l1_l0_l1
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              reference :  ?w4
+              reference :  ?w5
+              reference :  __iar_Dunscale
+              reference :  __iar_Memchr
+              reference :  __iar_Strchr
+              reference :  div
+              reference :  memcpy
+              reference :  strlen
+              definition:  _PrintfLarge
+Selecting member xsprout.o(dlstm8smn.a) to define _SProut.
+              definition:  _SProut
+Selecting member cexit.o(dlstm8smn.a) to define __cstart_call_dtors.
+              reference :  _Close_all
+              reference :  __call_dtors
+              reference :  __exit
+              reference :  __iar_clearlocks
+              definition:  __cstart_call_dtors
+              definition:  __cstart_clearlocks
+              definition:  __cstart_closeall
+              definition:  _exit
+Selecting member unhandled_exception.o(dlstm8smn.a) to define __iar_unhandled_exception.
+              definition:  __iar_unhandled_exception
+Selecting member float_libsup.o(dlstm8smn.a) to define __iar_Dunscale.
+              reference :  ?l0
+              definition:  __iar_Dnorm
+              definition:  __iar_Dscale
+              definition:  __iar_Dtest
+              definition:  __iar_Dunscale
+Selecting member memchr.o(dlstm8smn.a) to define __iar_Memchr.
+              reference :  ?b4
+              reference :  ?w0
+              reference :  ?w1
+              definition:  __iar_Memchr
+              definition:  memchr
+Selecting member strchr.o(dlstm8smn.a) to define __iar_Strchr.
+              reference :  ?b0
+              reference :  ?b1
+              definition:  __iar_Strchr
+              definition:  strchr
+Selecting member div.o(dlstm8smn.a) to define div.
+              reference :  ?mov_w2_w0
+              reference :  ?move1616_v_x_y_a
+              reference :  ?mul16_x_x_w0
+              reference :  ?sdiv16_x_x_y
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              reference :  ?w3
+              definition:  div
+Selecting member memcpy.o(dlstm8smn.a) to define memcpy.
+              reference :  ?mov_w2_w1
+              reference :  ?w0
+              reference :  ?w1
+              reference :  ?w2
+              definition:  memcpy
+Selecting member strlen.o(dlstm8smn.a) to define strlen.
+              reference :  ?w0
+              definition:  strlen
+Selecting member xcloseall.o(dlstm8smn.a) to define _Close_all.
+              reference :  ?b0
+              reference :  ?b1
+              reference :  __write_own
+              definition:  _Close_all
+Selecting member __dbg_xxexit.o(dbgstm8smd.a) to define __exit.
+              reference :  ?push_w4
+              reference :  ?w4
+              reference :  __DebugBreak
+              definition:  __exit
+Selecting member __dbg_break.o(dbgstm8smd.a) to define __DebugBreak.
+              definition:  __DebugBreak
+Selecting member init_small.o(dlstm8smn.a) to define __iar_zero_init2.
+              reference :  ?w0
+              reference :  ?w1
+              definition:  __iar_copy_init2
+              definition:  __iar_zero_init2
+Resolving duplicate symbol definitions
+  Picking _interrupt_13 [s44 D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\BS814A.o]
+    Suppressing _interrupt_13 [s6 interrupt.o(dlstm8smn.a)]
+  Picking _interrupt_15 [s17 D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\BS814A.o]
+    Suppressing _interrupt_15 [s6 interrupt.o(dlstm8smn.a)]
+  Picking _interrupt_17 [s17 D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\BS814A.o]
+    Suppressing _interrupt_17 [s6 interrupt.o(dlstm8smn.a)]
+  Picking _interrupt_25 [s17 D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\BS814A.o]
+    Suppressing _interrupt_25 [s6 interrupt.o(dlstm8smn.a)]
+  Picking _interrupt_9 [s16 D:\Designs\Laboratory_devices\ME-2021_UV_Disinfection\STM8_Touch\firmware\UV_disinfection_1.0\Project\Debug\Obj\BS814A.o]
+    Suppressing _interrupt_9 [s6 interrupt.o(dlstm8smn.a)]

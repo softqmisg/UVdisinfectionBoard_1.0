@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=UV_Disinfection_Multi_Hw00.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\UV_Disinfection_hw00\UV_Disinfection_Hw00.PrjPcb
+Record=SubProject|SourceDocument=UV_Disinfection_Multi_Hw00.MbsDoc|ProjectPath=..\UV_Disinfection_hw00\UV_Disinfection_Hw00.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UV_Disinfection_Multi_Hw00.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\UV_Disinfection_Relay_Hw00\UV_Disinfection_Relay_Hw00.PrjPcb
+Record=SubProject|SourceDocument=UV_Disinfection_Multi_Hw00.MbsDoc|ProjectPath=..\UV_Disinfection_Relay_Hw00\UV_Disinfection_Relay_Hw00.PrjPcb
